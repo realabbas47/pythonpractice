@@ -22,3 +22,17 @@ print('x = 12.2')
 
 print('\nRules for Variable name\n')
 
+print('Must start with a letter or underscore_\nMust contain letters, numbers and underscores\nIt is case sensetive')
+print('They must follow paterns and should be designed with its use in mind')
+
+"""
+Assignment statement
+"""
+print('\n\nx = something is an assignment statement')
+
+"""
+Expressions
+"""
+print('\n\nExpressions')
+print('\nOperators:- + - * **(Raise to the power) %\n')
+
